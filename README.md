@@ -32,7 +32,7 @@ This project was built to demonstrate the use of **Spring Boot**, **Spring Data 
 
 ## Technology Stack
 
-- Java 17
+- Java 22
 - Spring Boot 3.2
 - Spring Data JPA
 - MySQL 8
